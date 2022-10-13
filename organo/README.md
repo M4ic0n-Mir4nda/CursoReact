@@ -1,3 +1,9 @@
+# Caso queira ver funcionando basta clicar abaixo.
+
+https://organo-rust.vercel.app/
+
+Obs: Para colocar sua imagem você precisar ter uma conta no github e digitar o seguinte endereço: http://github.com/seu user no git.png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
