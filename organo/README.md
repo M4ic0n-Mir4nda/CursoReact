@@ -1,4 +1,4 @@
-# Caso queira ver funcionando basta clicar abaixo.
+# Caso queira ver funcionando basta clicar no link abaixo.
 
 https://organo-rust.vercel.app/
 
