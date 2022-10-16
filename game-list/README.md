@@ -1,3 +1,7 @@
+#Caso queira testar a aplicação.
+
+Link: https://github.com/M4ic0n-Mir4nda/CursoReact/tree/main/game-list
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
