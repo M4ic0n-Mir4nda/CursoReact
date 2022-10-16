@@ -1,6 +1,6 @@
 # Caso queira testar a aplicação.
 
-Link: https://lnkd.in/dVTCNxBk
+Link: https://game-list-two.vercel.app
 
 # Getting Started with Create React App
 
