@@ -1,0 +1,14 @@
+.itens table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1.5em;
+}
+
+.itens td {
+    border: 1px solid;
+    padding: 20px;
+    text-align: center;
+}

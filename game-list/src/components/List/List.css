@@ -1,0 +1,19 @@
+.list {
+    margin: 20px;
+}
+
+.list label {
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.list select {
+    display: flex;
+    max-width: 100%;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    padding: 25px;
+    font-size: 1.5em;
+}
