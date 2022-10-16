@@ -1,6 +1,6 @@
 # Caso queira testar a aplicação.
 
-Link: https://github.com/M4ic0n-Mir4nda/CursoReact/tree/main/game-list
+Link: https://lnkd.in/dVTCNxBk
 
 # Getting Started with Create React App
 
