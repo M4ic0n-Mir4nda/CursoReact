@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="App">
       <Form submitData={envio => gamesSubmit(envio)} />
-      <Table />
+      {games.length > 0 && <Table />}
       {games.map((item, index) => <Itens key={index} games={item} />)}
     </div>
   );
